@@ -10,7 +10,7 @@ int main()
     p.nombre="Alexis";
     p.edad=20;
     cout << "Mi primer proyecto en Git y Github!" << endl;
-    cout<<p.nombre<<endl;
-    cout<<p.edad<<endl;
+    cout<<"Nombre:"<<p.nombre<<endl;
+    cout<<"Edad: "<<p.edad<<endl;
     return 0;
 }
